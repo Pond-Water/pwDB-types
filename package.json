@@ -5,7 +5,7 @@
   }],
   "dependencies": {},
   "deprecated": false,
-  "description": "TypeScript definitions for pwDB",
+  "description": "Not used - d.ts file include in pwDB for now",
   "main": "",
   "name": "pwdb-types",
   "repository": {
@@ -14,6 +14,6 @@
   },
   "scripts": {},
   "typeScriptVersion": "2.0",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "license": "SEE LICENSE IN LICENSE"  
 }
