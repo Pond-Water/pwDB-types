@@ -5,7 +5,7 @@
   }],
   "dependencies": {},
   "deprecated": false,
-  "description": "TypeScript definitions for PwDB",
+  "description": "TypeScript definitions for pwDB",
   "main": "",
   "name": "pwdb-types",
   "repository": {
